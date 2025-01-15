@@ -15,10 +15,7 @@ import {
   quote,
 } from "zx";
 
+
 usePowerShell(); // Use PowerShell.exe
-await $`pwd`;
-// 初始化 Git 仓库
-await $`git init`;
-await $`git add .`;
-await $`git commit -m "init: init project"`;
-await $`git push`;
+const name = "foo ";
+await $`mkdir ${name}`;
