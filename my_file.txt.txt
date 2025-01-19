@@ -1,0 +1,5 @@
+Give it a try in your own terminal!
+
+npx @inquirer/demo@latest
+
+hhdsafhsdhfgsdhfgkwe    bgfdsfsdflsab

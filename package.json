@@ -1,5 +1,26 @@
 {
   "dependencies": {
+    "@changesets/cli": "^2.27.11",
+    "@inquirer/prompts": "^7.2.3",
+    "adm-zip": "^0.5.16",
+    "axios": "^1.7.9",
+    "commander": "^13.0.0",
+    "ejs": "^3.1.10",
+    "original-fs": "^1.2.0",
     "zx": "^8.3.0"
-  }
+  },
+  "name": "@linglingmin/create-cli",
+  "version": "1.0.8",
+  "main": "./main.js",
+  "type": "module",
+  "bin": {
+    "create-cli": "./main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
