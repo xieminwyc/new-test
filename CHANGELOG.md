@@ -1,5 +1,11 @@
 # test
 
+## 1.0.11
+
+### Patch Changes
+
+- yes
+
 ## 1.0.8
 
 ### Patch Changes

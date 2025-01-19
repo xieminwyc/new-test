@@ -9,12 +9,12 @@
     "original-fs": "^1.2.0",
     "zx": "^8.3.0"
   },
-  "name": "@linglingmin/create-cli",
-  "version": "1.0.9",
+  "name": "creat-cli",
+  "version": "1.0.11",
   "main": "./main.js",
   "type": "module",
   "bin": {
-    "create-cli": "./main.js"
+    "creat-cli": "./main.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
