@@ -1,2 +1,2 @@
-npm i @linglingmin/create-cli
-npx @linglingmin/create-cli create
+npm i creat-cli
+npx creat-cli create
